@@ -98,7 +98,8 @@
 			"sourceIndexes" : 
 			[
 				0,
-				3
+				3,
+				4
 			]
 		},
 		{
@@ -132,6 +133,11 @@
 		{
 			"backtrace" : 1,
 			"path" : "vec3.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "camera.h",
 			"sourceGroupIndex" : 0
 		}
 	],

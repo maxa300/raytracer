@@ -9,4 +9,5 @@ add_executable(raytracer
     color.h
     main.cpp
     vec3.cpp
-    vec3.h)
+    vec3.h
+        camera.h)
