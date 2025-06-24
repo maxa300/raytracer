@@ -1,0 +1,2 @@
+Antialiasing: jagged edging of pixels
+ 

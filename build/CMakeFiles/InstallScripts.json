@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/max/CLionProjects/raytracer/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
